@@ -1,6 +1,4 @@
-M2 MIAGE Paris-Saclay
 FIDO-U2F
-
 =========
 
 FIDO-U2F is an academic project that aims to improve the authentication and encryption of your hard disk loading your Windows / Linux session
